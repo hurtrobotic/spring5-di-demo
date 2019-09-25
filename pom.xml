@@ -4,7 +4,7 @@
 
 	<groupId>guru.springframework</groupId>
 	<artifactId>di-demo</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>di-demo</name>
@@ -55,7 +55,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:hurtrobotic/spring5-di-demo.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>di-demo-0.0.2</tag>
   </scm>
 
 	<repositories>

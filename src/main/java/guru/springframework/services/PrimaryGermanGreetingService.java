@@ -17,7 +17,6 @@ public class PrimaryGermanGreetingService implements GreetingService {
     public PrimaryGermanGreetingService(GreetingRepository greetingRepository) {
         this.greetingRepository = greetingRepository;
     }
-
     @Override
     public String sayGreeting() {
         return greetingRepository.getGermanGreeting();
